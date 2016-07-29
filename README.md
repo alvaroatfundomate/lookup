@@ -2,7 +2,7 @@
 
 It is a nice, simple and friendly to use library which helps you to lookup objects on a screen. Also it has a OCR functionality.
 
-Using Lookup you can do Java OCR tricks like recognizing any infromation from your Robot application. Which can be
+Using Lookup you can do Java OCR tricks like recognizing any information from your Robot application. Which can be
 usefull for debuging or automating things.
 
 Lookup project designed to lookup images in images. It based on NCC algorithm. Turns out it is good for simple OCR purpose as well.
